@@ -7,3 +7,7 @@ do {
 for (let i = 1; i < 50; i = i + 2) {
     console.log("here is an odd number " + i)
 }
+
+function shuffle(array){
+    
+}
