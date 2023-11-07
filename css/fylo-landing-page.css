@@ -28,3 +28,41 @@ h1 {
     font-size: 40px;
 }
 
+.column.logo img{
+    margin-top: 65px;
+     max-height: 49px;
+}
+
+.column ul{
+    margin-top: 65px;
+    display: flex;
+    gap: 25px;
+    list-style: none;
+    justify-content: right;
+}
+
+main.container img{
+    display: flex;
+    max-width: 375px;
+    flex-grow: 1;
+}
+
+main.container{
+    position: relative;
+    left: 66px;
+    top: 100px;
+}
+input{
+    text-align: center;
+    height: 35px;
+    width: 250px;
+    margin-right: 20px;
+}
+
+button{
+    background-color: blue;
+    border-radius:  3px;
+    width: 150px;
+    height: 40px;
+    color: white;
+}
